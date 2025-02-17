@@ -6,10 +6,9 @@ categories: 八字案例
 tags: 
  - 正印格
  - 败格
- - 疾病
  - 入墓
  - 财坏印
- - 金病
+ - 病金
 ---
 
 <img src="/images/bazi-example/bazi-example-45.PNG" width="70%">

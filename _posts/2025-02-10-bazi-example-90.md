@@ -8,7 +8,7 @@ tags:
  - 财
  - 财坏印
  - 交通事故
- - 木病
+ - 病木
 ---
 
 <img src="/images/bazi-example/bazi-example-90.PNG" width="70%">
