@@ -7,6 +7,7 @@ tags:
  - 正印格
  - 财
  - 财坏印
+ - 官非
 ---
 
 <img src="/images/bazi-example/bazi-example-99.PNG" width="70%">

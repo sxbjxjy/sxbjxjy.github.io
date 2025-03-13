@@ -10,6 +10,7 @@ tags:
  - 男命离婚
  - 财坏印
  - 财
+ - 发财
 ---
 
 <img src="/images/bazi-example/bazi-example-98.PNG" width="70%">

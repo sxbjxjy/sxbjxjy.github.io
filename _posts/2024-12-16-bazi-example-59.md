@@ -8,6 +8,7 @@ tags:
  - 成格
  - 财
  - 富
+ - 发财
 ---
 
 <img src="/images/bazi-example/bazi-example-59.PNG" width="70%">
