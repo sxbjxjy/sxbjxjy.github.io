@@ -11,7 +11,7 @@ tags:
  - 星宫同变
 ---
 
-<img src="/images/bazi-example/bazi-example-63.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-63.png" width="70%">
 
 **规律**
 

@@ -10,7 +10,7 @@ tags:
  - 官非
 ---
 
-<img src="/images/bazi-example/bazi-example-99.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-99.png" width="70%">
 
 **原局**
 

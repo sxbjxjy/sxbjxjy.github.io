@@ -11,7 +11,7 @@ tags:
  - 入墓
 ---
 
-<img src="/images/bazi-example/bazi-example-76.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-76.png" width="70%">
 
 **原局**
 

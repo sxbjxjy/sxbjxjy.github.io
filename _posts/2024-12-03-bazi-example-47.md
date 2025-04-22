@@ -10,7 +10,7 @@ tags:
  - 官杀攻身
 ---
 
-<img src="/images/bazi-example/bazi-example-47.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-47.png" width="70%">
 
 **规律**
 

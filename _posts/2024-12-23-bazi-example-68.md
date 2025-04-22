@@ -11,7 +11,7 @@ tags:
  - 湿土晦火
 ---
 
-<img src="/images/bazi-example/bazi-example-68.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-68.png" width="70%">
 
 **原局**
 

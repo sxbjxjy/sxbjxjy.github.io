@@ -12,7 +12,7 @@ tags:
  - 体弱多病
 ---
 
-<img src="/images/bazi-example/bazi-example-51.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-51.png" width="70%">
 
 **原局**
 

@@ -12,7 +12,7 @@ tags:
  - 财气通门户
 ---
 
-<img src="/images/bazi-example/bazi-example-80.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-80.png" width="70%">
 
 **原局**
 

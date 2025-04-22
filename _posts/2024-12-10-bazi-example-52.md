@@ -11,7 +11,7 @@ tags:
  - 星宫同变
 ---
 
-<img src="/images/bazi-example/bazi-example-52.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-52.png" width="70%">
 
 **原局**
 

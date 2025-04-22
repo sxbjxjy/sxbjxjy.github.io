@@ -11,7 +11,7 @@ tags:
  - 女命离婚
 ---
 
-<img src="/images/bazi-example/bazi-example-91.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-91.png" width="70%">
 
 **原局**
 

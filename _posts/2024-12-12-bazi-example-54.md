@@ -11,7 +11,7 @@ tags:
  - 伤官制杀
 ---
 
-<img src="/images/bazi-example/bazi-example-54.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-54.png" width="70%">
 
 **原局**
 

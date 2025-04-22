@@ -15,7 +15,7 @@ tags:
  - 无官杀夫星
 ---
 
-<img src="/images/bazi-example/bazi-example-96.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-96.png" width="70%">
 
 **原局**
 

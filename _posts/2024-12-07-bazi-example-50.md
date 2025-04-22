@@ -12,7 +12,7 @@ tags:
  - 男命结婚
 ---
 
-<img src="/images/bazi-example/bazi-example-50.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-50.png" width="70%">
 
 **规律**
 

@@ -11,7 +11,7 @@ tags:
  - 岁运并临
 ---
 
-<img src="/images/bazi-example/bazi-example-88.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-88.png" width="70%">
 
 **原局**
 

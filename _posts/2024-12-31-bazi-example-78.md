@@ -11,7 +11,7 @@ tags:
  - 食神制杀
 ---
 
-<img src="/images/bazi-example/bazi-example-78.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-78.png" width="70%">
 
 **原局**
 

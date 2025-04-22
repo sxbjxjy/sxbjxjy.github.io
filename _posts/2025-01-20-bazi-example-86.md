@@ -12,7 +12,7 @@ tags:
  - 伤官见官
 ---
 
-<img src="/images/bazi-example/bazi-example-86.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-86.png" width="70%">
 
 **原局**
 

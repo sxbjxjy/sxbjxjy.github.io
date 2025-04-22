@@ -9,7 +9,7 @@ tags:
  - 父寿
 ---
 
-<img src="/images/bazi-example/bazi-example-81.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-81.png" width="70%">
 
 **原局**
 

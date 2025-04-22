@@ -10,7 +10,7 @@ tags:
  - 富
 ---
 
-<img src="/images/bazi-example/bazi-example-71.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-71.png" width="70%">
 
 **原局**
 

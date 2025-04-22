@@ -15,7 +15,7 @@ tags:
  - 病土
 ---
 
-<img src="/images/bazi-example/bazi-example-93.PNG" width="70%">
+<img src="/images/bazi-example/bazi-example-93.png" width="70%">
 
 **原局**
 
